@@ -1,0 +1,6 @@
+streamlit
+groq
+SpeechRecognition
+gTTS
+edge-tts
+asyncio
